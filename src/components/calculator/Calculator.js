@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import Heading from "../heading/Heading";
 import './Calculator.css';
+
+//  Calculator source code
+// https://github.com/ahfarmer/calculator
 class Calculator extends Component{
     render(){
         return(
