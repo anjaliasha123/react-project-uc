@@ -1,0 +1,21 @@
+To run the app: 
+1. Run 'npm install' to install all the node modules.
+2. Run 'npm start' to run the reaact project to see it up and running in port 3000
+
+App creation:
+1. App is created using 'npx create-react-app' command.
+2. Folder structure is as follows:
+src 
+--------- components
+-------------------- button
+-------------------- calculator
+-------------------- graph
+-------------------- heading
+-------------------- svg
+--------- utilities
+-------------------- Fibonacci function
+-------------------- Spiral function
+App.js
+App.css
+
+3. button Component:
